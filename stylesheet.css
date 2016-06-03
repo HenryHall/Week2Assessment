@@ -1,0 +1,17 @@
+div {
+  background-color: #FFFF44;
+  border: 2px solid black;
+  margin: 10px;
+}
+
+.change {
+  background-color: #000099;
+  color: #FFFFFF;
+  border-radius: 5px;
+}
+
+.delete {
+  background-color: #FF0000;
+  color: #FFFFFF;
+  border-radius: 5px;
+}
